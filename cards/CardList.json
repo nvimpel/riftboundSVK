@@ -79,7 +79,7 @@
         "name": "Disintegrate",
         "type": "Spell",
         "cost": 4,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-005.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-005.avif",
         "isHorizontal": false
       }
     },
@@ -259,7 +259,7 @@
         "name": "Pouty Poro",
         "type": "Unit",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-013.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-013.avif",
         "isHorizontal": false
       }
     },
@@ -961,7 +961,7 @@
         "name": "En Garde",
         "type": "Spell",
         "cost": 1,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-046.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-046.avif",
         "isHorizontal": false
       }
     },
@@ -997,7 +997,7 @@
         "name": "Meditation",
         "type": "Spell",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-048.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-048.avif",
         "isHorizontal": false
       }
     },
@@ -1015,7 +1015,7 @@
         "name": "Playful Phantom",
         "type": "Unit",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-049.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-049.avif",
         "isHorizontal": false
       }
     },
@@ -1069,7 +1069,7 @@
         "name": "Stalwart Poro",
         "type": "Unit",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-052.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-052.avif",
         "isHorizontal": false
       }
     },
@@ -1124,7 +1124,7 @@
         "name": "Wielder of Water",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-055.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-055.avif",
         "isHorizontal": false
       }
     },
@@ -1723,7 +1723,7 @@
         "name": "Eager Apprentice",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-084.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-084.avif",
         "isHorizontal": false
       }
     },
@@ -1741,7 +1741,7 @@
         "name": "Falling Comet",
         "type": "Spell",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-085.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-085.avif",
         "isHorizontal": false
       }
     },
@@ -1777,7 +1777,7 @@
         "name": "Lecturing Yordle",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-087.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-087.avif",
         "isHorizontal": false
       }
     },
@@ -1795,7 +1795,7 @@
         "name": "Mega-Mech",
         "type": "Unit",
         "cost": 7,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-088.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-088.avif",
         "isHorizontal": false
       }
     },
@@ -1958,7 +1958,7 @@
         "name": "Stupefy",
         "type": "Spell",
         "cost": 1,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-095.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-095.avif",
         "isHorizontal": false
       }
     },
@@ -2102,7 +2102,7 @@
         "name": "Ravenbloom Student",
         "type": "Unit",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-103.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-103.avif",
         "isHorizontal": false
       }
     },
@@ -2137,7 +2137,7 @@
         "name": "Singularity",
         "type": "Spell",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-105.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-105.avif",
         "isHorizontal": false
       }
     },
@@ -2644,7 +2644,7 @@
         "name": "Cannon Barrage",
         "type": "Spell",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-127.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-127.avif",
         "isHorizontal": false
       }
     },
@@ -2680,7 +2680,7 @@
         "name": "Confront",
         "type": "Spell",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-129.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-129.avif",
         "isHorizontal": false
       }
     },
@@ -2698,7 +2698,7 @@
         "name": "Crackshot Corsair",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-130.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-130.avif",
         "isHorizontal": false
       }
     },
@@ -2716,7 +2716,7 @@
         "name": "Dune Drake",
         "type": "Unit",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-131.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-131.avif",
         "isHorizontal": false
       }
     },
@@ -2734,7 +2734,7 @@
         "name": "First Mate",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-132.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-132.avif",
         "isHorizontal": false
       }
     },
@@ -2770,7 +2770,7 @@
         "name": "Mobilize",
         "type": "Spell",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-134.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-134.avif",
         "isHorizontal": false
       }
     },
@@ -2917,7 +2917,7 @@
         "name": "Mountain Drake",
         "type": "Unit",
         "cost": 9,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-142.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-142.avif",
         "isHorizontal": false
       }
     },
@@ -3513,7 +3513,7 @@
         "name": "Gust",
         "type": "Spell",
         "cost": 1,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-169.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-169.avif",
         "isHorizontal": false
       }
     },
@@ -3531,7 +3531,7 @@
         "name": "Morbid Return",
         "type": "Spell",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-170.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-170.avif",
         "isHorizontal": false
       }
     },
@@ -3549,7 +3549,7 @@
         "name": "Mystic Poro",
         "type": "Unit",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-171.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-171.avif",
         "isHorizontal": false
       }
     },
@@ -3603,7 +3603,7 @@
         "name": "Sai Scout",
         "type": "Unit",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-174.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-174.avif",
         "isHorizontal": false
       }
     },
@@ -3639,7 +3639,7 @@
         "name": "Sneaky Deckhand",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-176.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-176.avif",
         "isHorizontal": false
       }
     },
@@ -3801,7 +3801,7 @@
         "name": "Traveling Merchant",
         "type": "Unit",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-185.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-185.avif",
         "isHorizontal": false
       }
     },
@@ -3909,7 +3909,7 @@
         "name": "Maddened Marauder",
         "type": "Unit",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-191.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-191.avif",
         "isHorizontal": false
       }
     },
@@ -4287,7 +4287,7 @@
         "name": "Back to Back",
         "type": "Spell",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-206.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-206.avif",
         "isHorizontal": false
       }
     },
@@ -4359,7 +4359,7 @@
         "name": "Daring Poro",
         "type": "Unit",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-210.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-210.avif",
         "isHorizontal": false
       }
     },
@@ -4377,7 +4377,7 @@
         "name": "Faithful Manufactor",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-211.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-211.avif",
         "isHorizontal": false
       }
     },
@@ -4487,7 +4487,7 @@
         "name": "Petty Officer",
         "type": "Unit",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-215.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-215.avif",
         "isHorizontal": false
       }
     },
@@ -4561,7 +4561,7 @@
         "name": "Vanguard Sergeant",
         "type": "Unit",
         "cost": 4,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-219.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-219.avif",
         "isHorizontal": false
       }
     },
@@ -4615,7 +4615,7 @@
         "name": "Noxian Drummer",
         "type": "Unit",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-222.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGN-222.avif",
         "isHorizontal": false
       }
     },
@@ -6539,7 +6539,7 @@
         "name": "Annie, Fiery",
         "type": "Unit",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-001.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-001.avif",
         "isHorizontal": false
       }
     },
@@ -6557,7 +6557,7 @@
         "name": "Firestorm",
         "type": "Spell",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-002.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-002.avif",
         "isHorizontal": false
       }
     },
@@ -6575,7 +6575,7 @@
         "name": "Incinerate",
         "type": "Spell",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-003.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-003.avif",
         "isHorizontal": false
       }
     },
@@ -6593,7 +6593,7 @@
         "name": "Master Yi, Meditative",
         "type": "Unit",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-004.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-004.avif",
         "isHorizontal": false
       }
     },
@@ -6611,7 +6611,7 @@
         "name": "Zephyr Sage",
         "type": "Unit",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-005.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-005.avif",
         "isHorizontal": false
       }
     },
@@ -6629,7 +6629,7 @@
         "name": "Lux, Illuminated",
         "type": "Unit",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-006.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-006.avif",
         "isHorizontal": false
       }
     },
@@ -6647,7 +6647,7 @@
         "name": "Garen, Rugged",
         "type": "Unit",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-007.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-007.avif",
         "isHorizontal": false
       }
     },
@@ -6665,7 +6665,7 @@
         "name": "Gentlemen's Duel",
         "type": "Spell",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-008.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-008.avif",
         "isHorizontal": false
       }
     },
@@ -6683,7 +6683,7 @@
         "name": "Master Yi, Honed",
         "type": "Unit",
         "cost": 7,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-009.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-009.avif",
         "isHorizontal": false
       }
     },
@@ -6701,7 +6701,7 @@
         "name": "Annie, Stubborn",
         "type": "Unit",
         "cost": 4,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-010.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-010.avif",
         "isHorizontal": false
       }
     },
@@ -6719,7 +6719,7 @@
         "name": "Flash",
         "type": "Spell",
         "cost": 2,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-011.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-011.avif",
         "isHorizontal": false
       }
     },
@@ -6737,7 +6737,7 @@
         "name": "Blast of Power",
         "type": "Spell",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-012.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-012.avif",
         "isHorizontal": false
       }
     },
@@ -6755,7 +6755,7 @@
         "name": "Garen, Commander",
         "type": "Unit",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-013.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-013.avif",
         "isHorizontal": false
       }
     },
@@ -6773,7 +6773,7 @@
         "name": "Lux, Crownguard",
         "type": "Unit",
         "cost": 4,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-014.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-014.avif",
         "isHorizontal": false
       }
     },
@@ -6791,7 +6791,7 @@
         "name": "Recruit the Vanguard",
         "type": "Spell",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-015.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-015.avif",
         "isHorizontal": false
       }
     },
@@ -6810,7 +6810,7 @@
         "name": "Vanguard Attendant",
         "type": "Unit",
         "cost": 6,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-016.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-016.avif",
         "isHorizontal": false
       }
     },
@@ -6828,7 +6828,7 @@
         "name": "Annie, Dark Child",
         "type": "Legend",
         "cost": 0,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-017.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-017.avif",
         "isHorizontal": false
       }
     },
@@ -6846,7 +6846,7 @@
         "name": "Tibbers",
         "type": "Unit",
         "cost": 8,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-018.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-018.avif",
         "isHorizontal": false
       }
     },
@@ -6864,7 +6864,7 @@
         "name": "Master Yi, Wuju Bladesman",
         "type": "Legend",
         "cost": 0,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-019.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-019.avif",
         "isHorizontal": false
       }
     },
@@ -6882,7 +6882,7 @@
         "name": "Highlander",
         "type": "Spell",
         "cost": 4,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-020.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-020.avif",
         "isHorizontal": false
       }
     },
@@ -6900,7 +6900,7 @@
         "name": "Lux, Lady of Luminosity",
         "type": "Legend",
         "cost": 0,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-021.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-021.avif",
         "isHorizontal": false
       }
     },
@@ -6918,7 +6918,7 @@
         "name": "Final Spark",
         "type": "Spell",
         "cost": 8,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-022.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-022.avif",
         "isHorizontal": false
       }
     },
@@ -6936,7 +6936,7 @@
         "name": "Garen, Might of Demacia",
         "type": "Legend",
         "cost": 0,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-023.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-023.avif",
         "isHorizontal": false
       }
     },
@@ -6954,7 +6954,7 @@
         "name": "Decisive Strike",
         "type": "Spell",
         "cost": 5,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGS-024.avif",
+        "image": "https://raw.githubusercontent.com/nvimpel/riftboundSVK/refs/heads/main/cards/final/OGS-024.avif",
         "isHorizontal": false
       }
     },
