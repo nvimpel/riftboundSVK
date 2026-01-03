@@ -4287,7 +4287,7 @@
         "name": "Back to Back",
         "type": "Spell",
         "cost": 3,
-        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-206.png,
+        "image": "https://github.com/nvimpel/riftboundSVK/blob/main/cards/final/OGN-206.png",
         "isHorizontal": false
       }
     },
